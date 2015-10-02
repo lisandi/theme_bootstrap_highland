@@ -10,7 +10,6 @@ lib.stdheader {
 		default = TEXT
 		default {
 			current = 1
-			//dataWrap = <h2 class="hl top-zero">|</h2>
 			dataWrap = <div class="block-header"><h2 {register:headerClass}><span class="title">|</span><span class="decoration"></span><span class="decoration"></span><span class="decoration"></span></h2></div>
 		}
 
